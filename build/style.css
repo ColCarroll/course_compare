@@ -1,0 +1,26 @@
+a.selectCourse {
+    cursor: pointer;
+}
+
+span.time-entry {
+    display: block;
+    padding: 6px 12px;
+
+}
+input.minutes {
+    display: inline;
+    width: 55px;
+}
+
+input.seconds {
+    display: inline;
+    width: 55px;
+}
+
+button.selectCourse {
+    margin: 1px 2px;
+}
+
+ul.selectCourse {
+    list-style-type: none;
+}
