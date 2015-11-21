@@ -237,7 +237,7 @@ var Explanation = React.createClass({
     return(
       <div className='row'>
         <h2>What's going on here?</h2>
-        <p>We collected hundreds of thousands of cross country results while building <a href='http://colcarroll.github.io/xc_predictions/' target='_blank'>this project</a>,
+        <p>We (<a href='http://colindcarroll.com/' target='_blank'>who?</a>) collected hundreds of thousands of cross country results while building <a href='http://colcarroll.github.io/xc_predictions/' target='_blank'>this project</a>,
           and along the way needed to be able to normalize times on different courses.
           In order to do this, we calculate a conversion factor between every two courses:
           that is, for courses <it>i</it> and <it>j</it>,
